@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @StudioKonvulsion
+- 👋 Hi, I’m Dan
 - 👀 I’m interested in programming, music, languages and games.
-- 🌱 I’m currently learning javascript and Japanese.
 - 📫 How to reach me dan@studiokonvulsion.com
 
 <!---
