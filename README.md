@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dan
-- 👀 I’m interested in programming, music, languages and games.
+- 👋 2023, lets code and publish at least once a week!
+- 👀 I’m interested in coding, boxing, music, languages and games.
 - 📫 How to reach me dan@studiokonvulsion.com
 
 <!---
